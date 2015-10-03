@@ -8,6 +8,7 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
+    <preference name="phonegap-version" value="3.7.0" />
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <access origin="*" />
